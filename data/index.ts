@@ -108,6 +108,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      link: "www.linkedin.com/in/isabel-moreno-desarrollo-full-stack-"
+      link: "https://www.linkedin.com/in/isabel-moreno-desarrollo-full-stack-/"
     },
   ];
